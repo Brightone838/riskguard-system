@@ -1,0 +1,10 @@
+*.sw?
+
+# Backend & security
+.env
+__pycache__/
+*.pyc
+*.db
+
+# Node
+node_modules/
